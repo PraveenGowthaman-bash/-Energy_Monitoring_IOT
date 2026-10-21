@@ -1,0 +1,10 @@
+﻿# Ignore everything, then allow only the showcase files
+*
+!.gitignore
+!README.md
+!Energy_Monitoring_Schematic_REV0.1.pdf
+!images/
+!images/pcb_top.png
+!images/pcb_bottom.png
+!Project Outputs for Energy_Monitoring/
+!Project Outputs for Energy_Monitoring/Energy_Monitoring_Gerber_2026-10-20.zip
