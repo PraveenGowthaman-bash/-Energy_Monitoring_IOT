@@ -14,3 +14,4 @@ Board size: 90.4 x 50.0 mm. Black solder mask, gold pads. Renders generated from
 
 - [`Energy_Monitoring_Schematic_REV0.1.pdf`](Energy_Monitoring_Schematic_REV0.1.pdf) - schematic
 - [`Project Outputs for Energy_Monitoring/Energy_Monitoring_Gerber_2026-10-20.zip`](Project%20Outputs%20for%20Energy_Monitoring/Energy_Monitoring_Gerber_2026-10-20.zip) - Gerber files
+- [`Energy_Monitor_PCB_Layout.pdf`](Energy_Monitor_PCB_Layout.pdf) - PCB layout (PDF)
