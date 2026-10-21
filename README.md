@@ -97,4 +97,4 @@ Available measurements depend on the connected meter, its register map and the f
 
 - [`Energy_Monitoring_Schematic_REV0.1.pdf`](Energy_Monitoring_Schematic_REV0.1.pdf) - schematic
 - [`Energy_Monitor_PCB_Layout.pdf`](Energy_Monitor_PCB_Layout.pdf) - PCB layout (PDF)
-- [`Project Outputs for Energy_Monitoring/Energy_Monitoring_Gerber_2026-10-20.zip`](Project%20Outputs%20for%20Energy_Monitoring/Energy_Monitoring_Gerber_2026-10-20.zip) - Gerber files
+- [`Gerbers/Energy_Monitoring_Gerber_2026-10-20.zip`](Gerbers/Energy_Monitoring_Gerber_2026-10-20.zip) - Gerber files
