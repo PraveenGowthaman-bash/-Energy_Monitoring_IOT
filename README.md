@@ -14,6 +14,10 @@ Designed in Altium Designer by Praveen Gowthaman for KuppiSmart / Livestockify.
 
 My first fabricated board. 2-layer, 90.4 x 50.0 mm, green solder mask with HASL finish, made by JLCPCB and hand-soldered.
 
+**Bare PCB as received from JLCPCB, before assembly:**
+
+![Bare PCB, top](images/hw_rev01_bare_top.jpg)
+
 ## PCB renders
 
 | Top | Bottom |
