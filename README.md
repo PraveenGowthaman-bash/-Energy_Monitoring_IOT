@@ -4,15 +4,23 @@ An ESP32-based hardware platform for collecting electrical energy measurements f
 
 Designed in Altium Designer by Praveen Gowthaman for KuppiSmart / Livestockify.
 
-**Status:** REV 0.1 prototype
+**Status:** REV 0.1 fabricated by JLCPCB, hand-assembled and in bench testing.
 
-## PCB
+## Real hardware (REV 0.1)
+
+| Top | Bottom |
+|---|---|
+| ![Fabricated board, top](images/hw_rev01_top.jpg) | ![Fabricated board, bottom](images/hw_rev01_bottom.jpg) |
+
+My first fabricated board. 2-layer, 90.4 x 50.0 mm, green solder mask with HASL finish, made by JLCPCB and hand-soldered.
+
+## PCB renders
 
 | Top | Bottom |
 |---|---|
 | ![Top](images/pcb_top.png) | ![Bottom](images/pcb_bottom.png) |
 
-2-layer board, 90.4 x 50.0 mm, black solder mask with gold pads. Renders generated from the Gerbers.
+Renders generated from the Gerbers (shown with a black mask; the fabricated board is green).
 
 ## Overview
 
